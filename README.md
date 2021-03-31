@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Enrique Plaza
-- 👀 I’m interested in MTB, fixed-gear,music,sci-fi,gym,trails,beers and wines.
+- 👀 I’m interested in MTB, fixed-gear, music, sci-fi, gym, trails, beers and wines.
 - 🌱 I’m currently learning HTML,CSS and JS.
 - 💞️ I’m looking to collaborate on front-end projects.
 - 📫 How to reach me enrique.plaza@mcs-it.com.br
